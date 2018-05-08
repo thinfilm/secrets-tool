@@ -1,8 +1,6 @@
 # Thinfilm Secrets Sharing Tool
 
-Forked From: [![Build Status](https://travis-ci.org/jhaals/yopass.svg)](https://travis-ci.org/jhaals/yopass)
-
-A tool for sharing secrets in a quick and secure manner.
+A tool for sharing secrets in a quick and secure manner which was forked from: https://github.com/jhaals/yopass
 
 ### Installation / Configuration
 It's highly recommended to run TLS encryption using nginx/apache or the Golang built-in TLS server.
